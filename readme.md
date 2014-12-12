@@ -11,9 +11,11 @@ God bless you.
 ## Description
 Name of files in the repository follows the convention:
 > ProblemTitle_ID.py
-And because my working environment is Linux. So every file should start
+
+
 with line like that:
-> #! /usr/bin/env python
+
+> \#! /usr/bin/env python
 **Note**: Version of python is 2.7. I have no idea if these files can run
 	successfully.
 
