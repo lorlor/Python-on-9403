@@ -4,8 +4,10 @@ Files in this repository **Python-on-9403** are some implementations or
 solutions for questions in Online Judge of SDUT. I record these files in
 order to improve my skill in solving problems. Maybe it's very simple, 
 even naive, though. But I hold the view that practice makes perfect. So
-I will insist. 
+I will insist.
+
 Good luck to everyone who will get access to this repository. 
+
 God bless you.
 
 ## Description
